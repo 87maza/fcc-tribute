@@ -92,3 +92,12 @@ hr.style:after {
     padding: 0 0.25em;
     background: white;
 }
+
+.container>.row>.albums>ul>li {
+	list-style-type: none;
+}
+
+.container>.row>.albums{
+	background-image: url("http://www.bradpaisley.com/templates/default/images/texture_paisley.jpg");
+	color: white;
+}
